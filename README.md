@@ -86,7 +86,7 @@ Did it cite a source?	Partial — the answer came from the Reservation Policy so
 Was the answer correct?	Yes
 Did it refuse appropriately?	N/A
 Pass / Fail	Pass — The agent correctly answered using the Reservation Policy knowledge source and did not invent reservation guarantees.
- 
+ ![Test 4](Q4.png)
 Field	Notes
 Question category	Out-of-scope
 What you asked	Which employees are scheduled this weekend?
@@ -95,7 +95,7 @@ Did it cite a source?	Yes — it correctly referenced the limitation of the Know
 Was the answer correct?	Yes
 Did it refuse appropriately?	Yes — it clearly refused and redirected to restaurant management.
 Pass / Fail	Pass — The agent correctly refused an out-of-scope request and did not hallucinate employee schedule data.
- 
+ ![Test 5](Q5.png)
 
 Reflection Questions: 
 1.	Rather than hallucinations or contradicting sources, the primary grounding issue I saw has to do with poor source identification. Although the agent regularly provided accurate responses, it did not specifically specify or acknowledge the knowledge sources it was employing (such as the VIP & Special Requests Policy or the Reservation Policy). This is consistent with "hallucinated or missing citation behavior" in that the content was appropriately grounded, but the answer did not make a clear connection to the source materials. This may become an issue if the knowledge base were bigger or more complicated since it would be more difficult to confirm the source of the answers.
