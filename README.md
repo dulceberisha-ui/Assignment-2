@@ -47,8 +47,8 @@ REFUSAL CRITERIA:
 - Refuse any request involving payment processing or refund approval.
 - Refuse questions unrelated to restaurant reservation policies.
 SCREENSHOTS: 
-  ![Knowledge Sources](Screenshot 2026-05-29 at 11.14.01 AM.png)
 
+ 
  
 Test Table: 
 Field	Notes
