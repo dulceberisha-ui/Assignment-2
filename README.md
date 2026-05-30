@@ -77,7 +77,7 @@ Did it cite a source?	Partial — the answer combined information from the VIP &
 Was the answer correct?	Yes
 Did it refuse appropriately?	N/A
 Pass / Fail	Pass — The agent correctly combined information about birthday requests and VIP seating policies without inventing unsupported information.
- ![Test 2](Q2.png)
+![Test 1](Q1.png)
 Field	Notes
 Question category	Edge case
 What you asked	Are walk-in tables guaranteed on Friday nights?
