@@ -48,7 +48,7 @@ REFUSAL CRITERIA:
 - Refuse questions unrelated to restaurant reservation policies.
 SCREENSHOTS:
 ![Knowledge Sources](S1.png)
- 
+ ![Knowledge Sources](S2.png)
  
 Test Table: 
 Field	Notes
