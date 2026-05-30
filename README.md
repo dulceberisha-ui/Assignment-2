@@ -47,9 +47,7 @@ REFUSAL CRITERIA:
 - Refuse any request involving payment processing or refund approval.
 - Refuse questions unrelated to restaurant reservation policies.
 SCREENSHOTS: 
-## Knowledge Sources Screenshot
-![Knowledge Sources](Screenshot 2026-05-29 at 11.14.01 AM.png)
- 
+
  
  
 Test Table: 
@@ -61,7 +59,7 @@ Did it cite a source?	Partial — used Reservation Policy but did not explicitly
 Was the answer correct?	Yes
 Did it refuse appropriately?	N/A
 Pass / Fail	Pass — The agent correctly answered the question using information from the Reservation Policy knowledge source without adding unsupported information.
- 
+ ![Test 2](Q2.png)
 Field	Notes
 Question category	In-scope
 What you asked	Can reservation assistants offer complimentary birthday desserts?
