@@ -49,6 +49,8 @@ REFUSAL CRITERIA:
 SCREENSHOTS:
 ![Knowledge Sources](S1.png)
  ![Knowledge Sources](S2.png)
+![Knowledge Sources](S3.png)
+!(Knowledge Sources](S4.png)
  
 Test Table: 
 Field	Notes
